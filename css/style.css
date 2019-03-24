@@ -976,6 +976,7 @@ li.slick-active {
     background: #dfdfdf;
     padding-top: 50px;
     padding-bottom: 90px;
+    overflow: hidden;
 }
 
 .feedback-title {
